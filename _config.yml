@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Amuk pudding
+description: Zoom in EIS and cloud computing.
+author: Sungyeon kim
+avatar: /assets/jess.png
+email: sunflowen@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: jess.png
 social:
   name: Shangzhi Huang
   links:
